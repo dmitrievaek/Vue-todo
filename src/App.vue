@@ -27,7 +27,6 @@ export default {
 			tasks:[
 				{id:1, name: 'Todo1'},
 				{id:2, name: 'Todo2'},
-				{id:3, name: 'Todo3'},
 			],
 		}
 	},
